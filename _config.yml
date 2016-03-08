@@ -1,0 +1,28 @@
+name: Interrupt
+favicon: null
+layout_spectrum: 0.775129497051239
+typography_spectrum: 0.841448292369023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9574641115032136
+  lightness: 0.8737045868765563
+  saturation: 0.4419371746480465
+  rhythmicContrast: 0.5400314286816865
+purpose: []
